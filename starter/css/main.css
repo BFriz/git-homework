@@ -32,11 +32,15 @@ header {
   top: 120px;
   left: 130px;
 }
+.content {
+  font-family: 'proxima-nova', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
 .butt {
 
 }
 
-.box4-bottom {
+footer {
   text-align: center;
-  top: 300px;
+  position: relative;
+  top: 700px;
 }
