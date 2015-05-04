@@ -1,0 +1,25 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+header {
+  background-image: url(../images/bgtile.png);
+  background-position: bottom;
+}
+.box1-right {
+  background-image: url(../images/frame.png);
+  background-repeat: no-repeat;
+  left: 500px;  
+}
+.box2-left {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
+
+
+.box4-bottom {
+  text-align: center;
+  top: 300px;
+}
