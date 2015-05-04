@@ -7,17 +7,31 @@ header {
   background-image: url(../images/bgtile.png);
   background-position: bottom;
 }
+.top {
+  position: absolute;
+  left: 590px;
+  top: 120px;
+}
 .box1-right {
+  position: absolute;
+  width: 430px;
+  padding: 20px;
   background-image: url(../images/frame.png);
-  background-repeat: no-repeat;
-  left: 500px;  
+  background-repeat: no-repeat; 
+  left: 590px;
+  top: 230px;
+}
+.content {
+  text-align: left;
 }
 .box2-left {
   position: absolute;
-  top: 50px;
-  left: 200px;
+  top: 120px;
+  left: 130px;
 }
+.butt {
 
+}
 
 .box4-bottom {
   text-align: center;
